@@ -1,0 +1,2 @@
+# odoo
+Repositorio odoo
